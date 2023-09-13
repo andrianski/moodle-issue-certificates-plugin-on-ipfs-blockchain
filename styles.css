@@ -1,0 +1,27 @@
+/* General table styling */
+.generaltable.boxaligncenter {
+    width: 80%;
+    margin: 20px auto;
+    border-collapse: collapse;
+}
+
+.generaltable.boxaligncenter th,
+.generaltable.boxaligncenter td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+}
+
+.generaltable.boxaligncenter th {
+    background-color: #f2f2f2;
+}
+
+/* Links styling */
+a {
+    color: #0073e6;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
